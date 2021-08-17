@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeCarreira", "OrangeCarreira\OrangeCarreira.csproj", "{013426CE-AC9C-4ADE-89A8-2F4B3D8040AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Js", "Js\Js.csproj", "{9F95D444-D7F6-4683-BDD1-1280BD654DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{E9691147-8CF3-4BFC-8A35-5806F894B96A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{E6A5E70E-11EA-4F6B-9C0C-7B205A3B608E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Codigo Fonte\Lib\Microsoft.Crm.Sdk.Proxy.dll = ..\..\Codigo Fonte\Lib\Microsoft.Crm.Sdk.Proxy.dll
+		..\..\Codigo Fonte\Lib\Microsoft.Xrm.Sdk.dll = ..\..\Codigo Fonte\Lib\Microsoft.Xrm.Sdk.dll
+		..\..\Codigo Fonte\Lib\Microsoft.Xrm.Sdk.Workflow.dll = ..\..\Codigo Fonte\Lib\Microsoft.Xrm.Sdk.Workflow.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013426CE-AC9C-4ADE-89A8-2F4B3D8040AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013426CE-AC9C-4ADE-89A8-2F4B3D8040AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013426CE-AC9C-4ADE-89A8-2F4B3D8040AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013426CE-AC9C-4ADE-89A8-2F4B3D8040AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F95D444-D7F6-4683-BDD1-1280BD654DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F95D444-D7F6-4683-BDD1-1280BD654DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F95D444-D7F6-4683-BDD1-1280BD654DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F95D444-D7F6-4683-BDD1-1280BD654DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9691147-8CF3-4BFC-8A35-5806F894B96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9691147-8CF3-4BFC-8A35-5806F894B96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9691147-8CF3-4BFC-8A35-5806F894B96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9691147-8CF3-4BFC-8A35-5806F894B96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E2A5AC-ED6F-4A03-9117-077800C8A48C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\bin\Debug\Js.dll
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\bin\Debug\Js.pdb
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\obj\Debug\Js.csproj.CoreCompileInputs.cache
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\obj\Debug\Js.dll
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\obj\Debug\Js.pdb
+C:\Users\ratra\Desktop\Codigo Fonte Integração\OrangeCarreira\Js\obj\Debug\Js.csproj.AssemblyReference.cache
